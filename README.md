@@ -8,4 +8,8 @@
 [Hao Li](https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)<br>
 *SIGGRAPH Asia 2025 (Conference Track)*
 
+- [Paper](https://www.dropbox.com/scl/fi/thidrqw3c58mn1ju2a8qr/sa25_strands2cards.pdf?rlkey=a1euz6cii69vp12yr1wmj240v&st=8l3jf3fr&dl=0)
+
 ## Content Coming Soon
+
+- Additional details, including code, will be added by December 1st.

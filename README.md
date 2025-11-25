@@ -108,3 +108,16 @@ TODO: add more detailed usage instructions.
 
 ## Optional speed-up
 If `libKMCUDA` is installed in the environment (see https://github.com/src-d/kmcuda), the clustering script (`1_cluster.py`) will automatically detect it and use the CUDA-accelerated k-means implementation, providing more efficient clustering for large numbers of strands.
+
+
+## Citation
+```
+@inproceedings{Tojo2025Strands2Cards,
+	author = {Tojo, Kenji and Hu, Liwen and Umetani, Nobuyuki and Li, Hao},
+	title = {Strands2Cards: Automatic Generation of Hair Cards from Strands},
+	booktitle = {ACM SIGGRAPH Asia 2025 Conference Proceedings},
+	year = {2025},
+	series = {SIGGRAPH Asia '25},
+	doi = {10.1145/3757377.3763864}
+}
+```

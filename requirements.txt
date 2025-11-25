@@ -1,0 +1,7 @@
+polyscope
+tqdm
+matplotlib
+scikit-learn
+kornia
+trimesh
+imageio

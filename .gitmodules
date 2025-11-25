@@ -1,0 +1,3 @@
+[submodule "pystrns2cards/ext/nanobind"]
+	path = pystrns2cards/ext/nanobind
+	url = git@github.com:wjakob/nanobind.git

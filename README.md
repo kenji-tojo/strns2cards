@@ -8,8 +8,22 @@
 [Hao Li](https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html)<br>
 *SIGGRAPH Asia 2025 (Conference Track)*
 
+[Project page](https://kenji-tojo.github.io/publications/strns2cards/) |
 [Paper](https://www.dropbox.com/scl/fi/thidrqw3c58mn1ju2a8qr/sa25_strands2cards.pdf?rlkey=a1euz6cii69vp12yr1wmj240v&st=8l3jf3fr&dl=0) |
 [Video](https://www.dropbox.com/scl/fi/4re0pe8f2b8u6p16egff3/sa25_strands2cards_video.mp4?rlkey=jo9x1a78clykmupdknc4plb4d&st=120pxgbx&dl=0)
+
+
+## Citation
+```
+@inproceedings{Tojo2025Strands2Cards,
+	author = {Tojo, Kenji and Hu, Liwen and Umetani, Nobuyuki and Li, Hao},
+	title = {Strands2Cards: Automatic Generation of Hair Cards from Strands},
+	booktitle = {ACM SIGGRAPH Asia 2025 Conference Proceedings},
+	year = {2025},
+	series = {SIGGRAPH Asia '25},
+	doi = {10.1145/3757377.3763864}
+}
+```
 
 
 ## Cloning the repository
@@ -108,16 +122,3 @@ TODO: add more detailed usage instructions.
 
 ## Optional speed-up
 If `libKMCUDA` is installed in the environment (see https://github.com/src-d/kmcuda), the clustering script (`1_cluster.py`) will automatically detect it and use the CUDA-accelerated k-means implementation, providing more efficient clustering for large numbers of strands.
-
-
-## Citation
-```
-@inproceedings{Tojo2025Strands2Cards,
-	author = {Tojo, Kenji and Hu, Liwen and Umetani, Nobuyuki and Li, Hao},
-	title = {Strands2Cards: Automatic Generation of Hair Cards from Strands},
-	booktitle = {ACM SIGGRAPH Asia 2025 Conference Proceedings},
-	year = {2025},
-	series = {SIGGRAPH Asia '25},
-	doi = {10.1145/3757377.3763864}
-}
-```

@@ -19,7 +19,7 @@ git clone --recursive git@github.com:kenji-tojo/strns2cards.git
 cd strns2cards
 ```
 
-## Platform Compatibility
+## Platform compatibility
 
 This project has been tested on **Windows 11** and **Python 3.10.11** using the installation and runtime steps described below.
 
